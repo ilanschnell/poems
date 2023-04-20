@@ -1,0 +1,11 @@
+How would you stack these items: truck, car, and an egg
+
+Stacking items that are of different shapes and sizes can be challenging, but here is one possible way to stack these items:
+
+1. Start by placing the egg at the bottom as it is the most fragile item and needs to be handled with care.
+
+2. Place the car on top of the egg, positioning it so that it balances well and doesn't crush the egg.
+
+3. Finally, place the truck on top of the car, again making sure that it is well balanced and won't topple over.
+
+This stacking order ensures that the fragile egg is protected, and the other items are positioned in a way that they don't cause any damage to each other. However, it's worth noting that stacking items in this way may not be practical in a real-life scenario, and it's always important to consider the individual characteristics of each item before attempting to stack them.
