@@ -1,0 +1,19 @@
+In zeros and ones, it's plain to see
+A world of data, a binary sea
+But sometimes we need more control
+To manage bits, to take a toll
+
+Enter bitarray, a Python friend
+A tool to use, a means to an end
+A compact form, a space saver
+With flexible options, to do us a favor
+
+Manipulate bits with ease and grace
+A powerful tool to keep up the pace
+A binary dance, a symphony of code
+Bitarray is there to carry the load
+
+So let's raise a glass to bitarray's might
+For helping us navigate the digital fight
+In ones and zeroes, we'll carry on
+With bitarray by our side, we'll never be gone.
